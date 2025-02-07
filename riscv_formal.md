@@ -146,7 +146,6 @@ Comparison of **SymbiYosys Flow** and **Synopsys VC Formal (VCF)** flows:
 | **Solver Backend**          | Boolector, Yices2, etc.,    | Synopsys’ internal solvers |
 | **Counterexample Debugging** | GUI-based + logs  | GUI-based + logs |
 | **Execution Automation**    | Python, Shell & Makefile  | Python, Shell & Makefile |
-|
 
 ## Future Scope
 
